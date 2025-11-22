@@ -181,21 +181,14 @@ $boost=10000,site=nyaa.si
 $boost=10000,site=rutracker.org
 
 ! Useful technical resources
-$boost=10000,site=stackexchange.com
-$boost=10000,site=stackoverflow.com
 $boost=10000,site=superuser.com
-$boost=10000,site=askubuntu.com
 $boost=10000,site=unix.stackexchange.com
 $boost=10000,site=serverfault.com
-$boost=10000,site=wikipedia.org
-$boost=10000,site=en.wikipedia.org
-$boost=10000,site=github.com
 $boost=10000,site=gitlab.com
 $boost=10000,site=codeberg.org
 $boost=10000,site=sourcehut.org
 $boost=10000,site=notabug.org
 $boost=10000,site=archive.org
-$boost=10000,site=goodreads.com
 $boost=10000,site=docs.rs
 $boost=10000,site=crates.io
 $boost=10000,site=wiki.archlinux.org
@@ -206,16 +199,11 @@ $boost=10000,site=arxiv.org
 $boost=10000,site=rtings.com
 
 ! Media
-$boost=10000,site=youtube.com
 $boost=10000,site=anilist.co
 $boost=10000,site=myanimelist.net
 $boost=10000,site=store.steampowered.com
 $boost=10000,site=itch.io
 $boost=10000,site=gamejolt.com
-
-! Community sites (minimal boost)
-$boost=5000,site=reddit.com
-$boost=5000,site=open.substack.com
 
 ! ===== DISCARD ALL MAINSTREAM CORPORATE TRASH =====
 ! Top 1000 mainstream sites
