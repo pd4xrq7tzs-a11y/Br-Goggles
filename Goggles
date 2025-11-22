@@ -1,125 +1,224 @@
-! name: Esoteric & Underground Web
-! description: Maximum boost for underground communities, alternative knowledge, and esoteric resources. Nukes all mainstream corporate sites.
+! name: Esoteric & Underground Web Maximum
+! description: Maximum boost for underground communities, alternative knowledge, esoteric resources, and indie web. Aggressively blocks mainstream corporate sites.
 ! public: true
 ! author: Anonymous
 
-! ===== MAXIMUM BOOST PRIORITY SITES =====
-! Underground imageboards & chans
-$boost=100,site=lainchan.org
-$boost=100,site=wizchan.org
-$boost=100,site=4chan.org
-$boost=100,site=8chan.moe
-$boost=100,site=8kun.top
-$boost=100,site=endchan.net
-$boost=100,site=7chan.org
-$boost=100,site=wirechan.org
-$boost=100,site=zzzchan.xyz
-$boost=100,site=denpa-chan.org
-$boost=100,site=leftychan.net
-$boost=100,site=22chan.org
-$boost=100,site=heyuri.net
-$boost=100,site=711chan.net
+! ===== MAXIMUM BOOST (10000) =====
 
-! Small web communities
-$boost=100,site=lobste.rs
-$boost=100,site=news.ycombinator.com
-$boost=100,site=bluedwarf.top
-$boost=100,site=cy-x.net
-$boost=100,site=basementcommunity.com
-$boost=100,site=forum.melonland.net
-$boost=100,site=discourse.32bit.cafe
-$boost=100,site=forum.agoraroad.com
-$boost=100,site=forums.spacebattles.com
-$boost=100,site=anime-sharing.com
+! Underground imageboards & chans
+$boost=10000,site=lainchan.org
+$boost=10000,site=wizchan.org
+$boost=10000,site=4chan.org
+$boost=10000,site=8chan.moe
+$boost=10000,site=8kun.top
+$boost=10000,site=endchan.net
+$boost=10000,site=7chan.org
+$boost=10000,site=wirechan.org
+$boost=10000,site=zzzchan.xyz
+$boost=10000,site=denpa-chan.org
+$boost=10000,site=leftychan.net
+$boost=10000,site=22chan.org
+$boost=10000,site=heyuri.net
+$boost=10000,site=711chan.net
+$boost=10000,site=2chan.net
+$boost=10000,site=iichan.net
+$boost=10000,site=0chan.net
+$boost=10000,site=55chan.org
+$boost=10000,site=brch an.org
+$boost=10000,site=138chan.org
+$boost=10000,site=888chan.org
+$boost=10000,site=64ch.net
+$boost=10000,site=allchans.org
+$boost=10000,site=anychan.com
+
+! Small web communities & forums
+$boost=10000,site=lobste.rs
+$boost=10000,site=news.ycombinator.com
+$boost=10000,site=bluedwarf.top
+$boost=10000,site=cy-x.net
+$boost=10000,site=basementcommunity.com
+$boost=10000,site=forum.melonland.net
+$boost=10000,site=discourse.32bit.cafe
+$boost=10000,site=forum.agoraroad.com
+$boost=10000,site=forums.spacebattles.com
+$boost=10000,site=anime-sharing.com
+$boost=10000,site=saidit.net
+$boost=10000,site=lemmy.ml
+$boost=10000,site=kbin.social
+$boost=10000,site=e-hentai.org
+$boost=10000,site=nhentai.net
+$boost=10000,site=nexusmods.com
+$boost=10000,site=sxyprn.com
+$boost=10000,site=fc2.com
+$boost=10000,site=steamcommunity.com
+$boost=10000,site=gamepedia.com
+$boost=10000,site=patreon.com
+$boost=10000,site=telegram.org
+$boost=10000,site=kakaku.com
+$boost=10000,site=archiveofourown.org
+
+
+! Textboards
+$boost=10000,site=4-ch.net
+$boost=10000,site=dis.4ct.org
+$boost=10000,site=bbs.neet.tv
+$boost=10000,site=world4ch.org
+$boost=10000,site=2ch.net
+$boost=10000,site=2channel.ru
+$boost=10000,site=3-ch.org
+$boost=10000,site=wakaba.c3.cx
 
 ! Conspiracy/fringe/alternative knowledge
-$boost=100,site=debunkingskeptics.com
-$boost=100,site=unexplained-mysteries.com
-$boost=100,site=metabunk.org
-$boost=100,site=alienhub.com
-$boost=100,site=alchemyforums.com
-$boost=100,site=digimob.forumotion.net
-$boost=100,site=religiousforums.com
-$boost=100,site=occultforum.org
-$boost=100,site=whale.to
-$boost=100,site=bibliotecapleyades.net
-$boost=100,site=energeticforum.com
-$boost=100,site=energyscienceforum.com
-$boost=100,site=paranormalis.com
-$boost=100,site=conspiracies.win
-$boost=100,site=projectavalon.net
-$boost=100,site=wizardforums.com
-$boost=100,site=godlikeproductions.com
+$boost=10000,site=debunkingskeptics.com
+$boost=10000,site=unexplained-mysteries.com
+$boost=10000,site=metabunk.org
+$boost=10000,site=alienhub.com
+$boost=10000,site=alchemyforums.com
+$boost=10000,site=digimob.forumotion.net
+$boost=10000,site=religiousforums.com
+$boost=10000,site=occultforum.org
+$boost=10000,site=whale.to
+$boost=10000,site=bibliotecapleyades.net
+$boost=10000,site=energeticforum.com
+$boost=10000,site=energyscienceforum.com
+$boost=10000,site=paranormalis.com
+$boost=10000,site=conspiracies.win
+$boost=10000,site=projectavalon.net
+$boost=10000,site=wizardforums.com
+$boost=10000,site=godlikeproductions.com
+$boost=10000,site=abovetopsecret.com
+$boost=10000,site=glp.ai
 
 ! Occult & esoteric archives
-$boost=100,site=sacred-texts.com
-$boost=100,site=arcane-archive.org
-$boost=100,site=alchemywebsite.com
-$boost=100,site=gnosis.org
-$boost=100,site=hermeticus.info
-$boost=100,site=hermetic.com
-$boost=100,site=esotericarchives.com
-$boost=100,site=cdn.preterhuman.net
-$boost=100,site=occult.live
-$boost=100,site=rexresearch.com
-$boost=100,site=rexresearch1.com
-$boost=100,site=occult-study.com
-$boost=100,site=alabe.com
-$boost=100,site=iapsop.com
-$boost=100,site=malankazlev.com
+$boost=10000,site=sacred-texts.com
+$boost=10000,site=arcane-archive.org
+$boost=10000,site=alchemywebsite.com
+$boost=10000,site=gnosis.org
+$boost=10000,site=hermeticus.info
+$boost=10000,site=hermetic.com
+$boost=10000,site=esotericarchives.com
+$boost=10000,site=cdn.preterhuman.net
+$boost=10000,site=occult.live
+$boost=10000,site=rexresearch.com
+$boost=10000,site=rexresearch1.com
+$boost=10000,site=occult-study.com
+$boost=10000,site=alabe.com
+$boost=10000,site=iapsop.com
+$boost=10000,site=malankazlev.com
+$boost=10000,site=levity.com
+$boost=10000,site=thelemapedia.org
 
 ! Alternative wikis & knowledge bases
-$boost=100,site=wikispooks.com
-$boost=100,site=hatch.kookscience.com
-$boost=100,site=sourcewatch.com
-$boost=100,site=edramatica.com
-$boost=100,site=polcompball.wiki
-$boost=100,site=incels.wiki
-$boost=100,site=uncyclopedia.co
-$boost=100,site=psychonautwiki.org
-$boost=100,site=erowid.org
-$boost=100,site=dmt-nexus.me
-$boost=100,site=tvtropes.org
-$boost=100,site=prolewiki.org
-$boost=100,site=develop.consumerium.org
-$boost=100,site=igwiki.lyci.de
-$boost=100,site=wiki.archiveteam.org
+$boost=10000,site=wikispooks.com
+$boost=10000,site=hatch.kookscience.com
+$boost=10000,site=sourcewatch.com
+$boost=10000,site=edramatica.com
+$boost=10000,site=polcompball.wiki
+$boost=10000,site=incels.wiki
+$boost=10000,site=uncyclopedia.co
+$boost=10000,site=psychonautwiki.org
+$boost=10000,site=erowid.org
+$boost=10000,site=dmt-nexus.me
+$boost=10000,site=tvtropes.org
+$boost=10000,site=prolewiki.org
+$boost=10000,site=develop.consumerium.org
+$boost=10000,site=igwiki.lyci.de
+$boost=10000,site=wiki.archiveteam.org
+$boost=10000,site=allthetropes.org
 
 ! Alternative video platforms
-$boost=100,site=rumble.com
-$boost=100,site=odysee.com
-$boost=100,site=wrongthink.link
+$boost=10000,site=rumble.com
+$boost=10000,site=odysee.com
+$boost=10000,site=wrongthink.link
+$boost=10000,site=bitchute.com
+$boost=10000,site=brighteon.com
+$boost=10000,site=banned.video
+
+! Indie web & personal sites
+$boost=10000,site=neocities.org
+$boost=10000,site=nekoweb.org
+$boost=10000,site=sadgrl.online
+$boost=10000,site=yesterweb.org
+$boost=10000,site=32bit.cafe
+$boost=10000,site=melonland.net
+$boost=10000,site=250kb.club
+$boost=10000,site=512kb.club
+$boost=10000,site=1mb.club
 
 ! Tech & security
-$boost=100,site=thehackernews.com
+$boost=10000,site=thehackernews.com
+$boost=10000,site=bleepingcomputer.com
+$boost=10000,site=krebsonsecurity.com
+$boost=10000,site=schneier.com
+$boost=10000,site=0x00sec.org
+$boost=10000,site=hackforums.net
+
+! Alternative search & discovery
+$boost=10000,site=marginalia.nu
+$boost=10000,site=wiby.me
+$boost=10000,site=millionshort.com
+$boost=10000,site=search.marginalia.nu
+
+! Decentralized platforms
+$boost=10000,site=mastodon.social
+$boost=10000,site=diaspora.social
+$boost=10000,site=scuttlebutt.nz
+$boost=10000,site=minds.com
+$boost=10000,site=gab.com
+$boost=10000,site=gettr.com
+$boost=10000,site=parler.com
+$boost=10000,site=truthsocial.com
+
+! File sharing & piracy
+$boost=10000,site=sci-hub.se
+$boost=10000,site=libgen.is
+$boost=10000,site=z-lib.org
+$boost=10000,site=b-ok.org
+$boost=10000,site=1337x.to
+$boost=10000,site=rarbg.to
+$boost=10000,site=piratebay.org
+$boost=10000,site=nyaa.si
+$boost=10000,site=rutracker.org
 
 ! Useful technical resources
-$boost=100,site=stackexchange.com
-$boost=100,site=stackoverflow.com
-$boost=100,site=superuser.com
-$boost=100,site=wikipedia.org
-$boost=100,site=en.wikipedia.org
-$boost=100,site=github.com
-$boost=100,site=gitlab.com
-$boost=100,site=archive.org
-$boost=100,site=goodreads.com
-$boost=100,site=docs.rs
-$boost=100,site=wiki.archlinux.org
-$boost=100,site=arxiv.org
-$boost=100,site=rtings.com
+$boost=10000,site=stackexchange.com
+$boost=10000,site=stackoverflow.com
+$boost=10000,site=superuser.com
+$boost=10000,site=askubuntu.com
+$boost=10000,site=unix.stackexchange.com
+$boost=10000,site=serverfault.com
+$boost=10000,site=wikipedia.org
+$boost=10000,site=en.wikipedia.org
+$boost=10000,site=github.com
+$boost=10000,site=gitlab.com
+$boost=10000,site=codeberg.org
+$boost=10000,site=sourcehut.org
+$boost=10000,site=notabug.org
+$boost=10000,site=archive.org
+$boost=10000,site=goodreads.com
+$boost=10000,site=docs.rs
+$boost=10000,site=crates.io
+$boost=10000,site=wiki.archlinux.org
+$boost=10000,site=wiki.gentoo.org
+$boost=10000,site=wiki.debian.org
+$boost=10000,site=man.openbsd.org
+$boost=10000,site=arxiv.org
+$boost=10000,site=rtings.com
 
 ! Media
-$boost=100,site=youtube.com
-$boost=100,site=anilist.co
-$boost=100,site=myanimelist.net
-$boost=100,site=store.steampowered.com
+$boost=10000,site=youtube.com
+$boost=10000,site=anilist.co
+$boost=10000,site=myanimelist.net
+$boost=10000,site=store.steampowered.com
+$boost=10000,site=itch.io
+$boost=10000,site=gamejolt.com
 
-! Community sites
-$boost=100,site=reddit.com
-$boost=100,site=open.substack.com
+! Community sites (minimal boost)
+$boost=5000,site=reddit.com
+$boost=5000,site=open.substack.com
 
 ! ===== DISCARD ALL MAINSTREAM CORPORATE TRASH =====
-! Top 1000 most visited sites (mainstream garbage)
+! Top 1000 mainstream sites
 $discard,site=google.com
 $discard,site=facebook.com
 $discard,site=baidu.com
@@ -234,7 +333,6 @@ $discard,site=etsy.com
 $discard,site=mercadolivre.com.br
 $discard,site=slideshare.net
 $discard,site=gloyah.net
-$discard,site=fc2.com
 $discard,site=theguardian.com
 $discard,site=walmart.com
 $discard,site=alibaba.com
@@ -254,7 +352,6 @@ $discard,site=google.com.tr
 $discard,site=huanqiu.com
 $discard,site=dailymotion.com
 $discard,site=bankofamerica.com
-$discard,site=steamcommunity.com
 $discard,site=espncricinfo.com
 $discard,site=speedtest.net
 $discard,site=kompas.com
@@ -265,7 +362,6 @@ $discard,site=hulu.com
 $discard,site=blogger.com
 $discard,site=spankbang.com
 $discard,site=sciencedirect.com
-$discard,site=gamepedia.com
 $discard,site=softonic.com
 $discard,site=deviantart.com
 $discard,site=vice.com
@@ -322,7 +418,6 @@ $discard,site=shopify.com
 $discard,site=atlassian.net
 $discard,site=douyu.com
 $discard,site=homedepot.com
-$discard,site=patreon.com
 $discard,site=pixabay.com
 $discard,site=sarkariresult.com
 $discard,site=google.co.id
@@ -335,7 +430,6 @@ $discard,site=varzesh3.com
 $discard,site=ilovepdf.com
 $discard,site=manoramaonline.com
 $discard,site=usps.com
-$discard,site=telegram.org
 $discard,site=hubspot.com
 $discard,site=washingtonpost.com
 $discard,site=fiverr.com
@@ -372,7 +466,6 @@ $discard,site=wikimedia.org
 $discard,site=buzzfeed.com
 $discard,site=ameblo.jp
 $discard,site=mercadolibre.com.ar
-$discard,site=kakaku.com
 $discard,site=genius.com
 $discard,site=oracle.com
 $discard,site=1337x.to
@@ -554,7 +647,6 @@ $discard,site=myanmarload.com
 $discard,site=ifeng.com
 $discard,site=heavy.com
 $discard,site=lun.com
-$discard,site=nexusmods.com
 $discard,site=internetdownloadmanager.com
 $discard,site=tokopedia.com
 $discard,site=nyaa.si
@@ -570,7 +662,6 @@ $discard,site=google.co.ve
 $discard,site=reuters.com
 $discard,site=orange.fr
 $discard,site=eventbrite.com
-$discard,site=nhentai.net
 $discard,site=tenki.jp
 $discard,site=ebay.com.au
 $discard,site=ibm.com
@@ -606,7 +697,6 @@ $discard,site=beeg.com
 $discard,site=126.com
 $discard,site=mileroticos.com
 $discard,site=costco.com
-$discard,site=archiveofourown.org
 $discard,site=www.gov.uk
 $discard,site=rakuten.com
 $discard,site=envato.com
@@ -631,11 +721,9 @@ $discard,site=kickstarter.com
 $discard,site=ozon.ru
 $discard,site=filehippo.com
 $discard,site=service-now.com
-$discard,site=e-hentai.org
 $discard,site=thesun.co.uk
 $discard,site=hh.ru
 $discard,site=urbandictionary.com
-$discard,site=sxyprn.com
 $discard,site=2movierulz.ac
 $discard,site=cisco.com
 $discard,site=dcinside.com
@@ -894,8 +982,6 @@ $discard,site=gamib.com
 $discard,site=battle.net
 $discard,site=codecanyon.net
 $discard,site=allocine.fr
-
-! Additional mainstream garbage from your list
 $discard,site=rationalwiki.org
 $discard,site=maketecheasier.com
 $discard,site=space.com
