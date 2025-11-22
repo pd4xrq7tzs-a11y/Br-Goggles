@@ -24,7 +24,6 @@ $boost=5,site=2chan.net
 $boost=5,site=iichan.net
 $boost=5,site=0chan.net
 $boost=5,site=55chan.org
-$boost=5,site=brch an.org
 $boost=5,site=138chan.org
 $boost=5,site=888chan.org
 $boost=5,site=64ch.net
