@@ -1,0 +1,205 @@
+! name: Esoteric & Indie Web Search
+! description: Prioritizes small independent sites, alternative tech communities, occult/esoteric resources, and imageboards while blocking mainstream corporate media and SEO spam
+! public: true
+! author: Anonymous
+
+! ===== BOOST PRIORITY SITES =====
+! Underground communities & imageboards
+$boost=10,site=lainchan.org
+$boost=10,site=wizchan.org
+$boost=10,site=4chan.org
+$boost=10,site=8chan.moe
+$boost=10,site=8kun.top
+$boost=10,site=endchan.net
+$boost=10,site=7chan.org
+$boost=10,site=wirechan.org
+$boost=10,site=zzzchan.xyz
+$boost=10,site=denpa-chan.org
+$boost=10,site=leftychan.net
+$boost=10,site=22chan.org
+$boost=10,site=heyuri.net
+$boost=10,site=711chan.net
+
+! Small web forums & communities
+$boost=10,site=lobste.rs
+$boost=10,site=news.ycombinator.com
+$boost=10,site=bluedwarf.top
+$boost=10,site=cy-x.net
+$boost=10,site=basementcommunity.com
+$boost=10,site=forum.melonland.net
+$boost=10,site=discourse.32bit.cafe
+$boost=10,site=forum.agoraroad.com
+$boost=10,site=forums.spacebattles.com
+$boost=10,site=anime-sharing.com
+
+! Conspiracy/fringe/alternative knowledge
+$boost=10,site=debunkingskeptics.com
+$boost=10,site=unexplained-mysteries.com
+$boost=10,site=metabunk.org
+$boost=10,site=alienhub.com
+$boost=10,site=alchemyforums.com
+$boost=10,site=digimob.forumotion.net
+$boost=10,site=religiousforums.com
+$boost=10,site=occultforum.org
+$boost=10,site=whale.to
+$boost=10,site=bibliotecapleyades.net
+$boost=10,site=energeticforum.com
+$boost=10,site=energyscienceforum.com
+$boost=10,site=paranormalis.com
+$boost=10,site=conspiracies.win
+$boost=10,site=projectavalon.net
+$boost=10,site=wizardforums.com
+$boost=10,site=godlikeproductions.com
+
+! Occult & esoteric archives
+$boost=10,site=sacred-texts.com
+$boost=10,site=arcane-archive.org
+$boost=10,site=alchemywebsite.com
+$boost=10,site=gnosis.org
+$boost=10,site=hermeticus.info
+$boost=10,site=hermetic.com
+$boost=10,site=esotericarchives.com
+$boost=10,site=cdn.preterhuman.net
+$boost=10,site=occult.live
+$boost=10,site=rexresearch.com
+$boost=10,site=rexresearch1.com
+$boost=10,site=occult-study.com
+$boost=10,site=alabe.com
+$boost=10,site=iapsop.com
+$boost=10,site=malankazlev.com
+
+! Alternative wikis & knowledge bases
+$boost=10,site=wikispooks.com
+$boost=10,site=hatch.kookscience.com
+$boost=10,site=sourcewatch.com
+$boost=10,site=edramatica.com
+$boost=10,site=polcompball.wiki
+$boost=10,site=incels.wiki
+$boost=10,site=uncyclopedia.co
+$boost=10,site=psychonautwiki.org
+$boost=10,site=erowid.org
+$boost=10,site=dmt-nexus.me
+$boost=10,site=tvtropes.org
+$boost=10,site=prolewiki.org
+$boost=10,site=develop.consumerium.org
+$boost=10,site=igwiki.lyci.de
+$boost=10,site=wiki.archiveteam.org
+
+! Alternative video platforms
+$boost=10,site=rumble.com
+$boost=10,site=odysee.com
+$boost=10,site=wrongthink.link
+
+! Tech & security
+$boost=8,site=thehackernews.com
+
+! General useful sites (moderate boost)
+$boost=5,site=stackexchange.com
+$boost=5,site=stackoverflow.com
+$boost=5,site=superuser.com
+$boost=5,site=wikipedia.org
+$boost=5,site=en.wikipedia.org
+$boost=5,site=github.com
+$boost=5,site=gitlab.com
+$boost=5,site=archive.org
+$boost=5,site=goodreads.com
+$boost=5,site=docs.rs
+$boost=5,site=wiki.archlinux.org
+$boost=5,site=arxiv.org
+$boost=5,site=rtings.com
+
+! Media (light boost)
+$boost=3,site=youtube.com
+$boost=3,site=anilist.co
+$boost=3,site=myanimelist.net
+$boost=3,site=store.steampowered.com
+
+! Reddit & Substack (minimal boost)
+$boost=2,site=reddit.com
+$boost=2,site=open.substack.com
+
+! ===== DISCARD SITES =====
+! Mainstream media
+$discard,site=nytimes.com
+$discard,site=forbes.com
+$discard,site=cnn.com
+$discard,site=foxnews.com
+$discard,site=breitbart.com
+$discard,site=dailymail.co.uk
+$discard,site=nypost.com
+$discard,site=msn.com
+$discard,site=washingtonpost.com
+$discard,site=theatlantic.com
+$discard,site=ign.com
+$discard,site=history.com
+$discard,site=science.org
+
+! Corporate tech
+$discard,site=docs.microsoft.com
+$discard,site=learn.microsoft.com
+$discard,site=answers.microsoft.com
+$discard,site=support.apple.com
+$discard,site=developer.apple.com
+$discard,site=play.google.com
+$discard,site=tv.apple.com
+
+! Social media
+$discard,site=twitter.com
+$discard,site=linkedin.com
+$discard,site=instagram.com
+$discard,site=tiktok.com
+$discard,site=medium.com
+
+! Pinterest spam
+$discard,site=pinterest.com
+$discard,site=pinterest.co.uk
+$discard,site=pinterest.de
+$discard,site=pinterest.ca
+$discard,site=pinterest.fr
+$discard,site=pinterest.com.au
+$discard,site=pinterest.es
+
+! Content farms & SEO spam
+$discard,site=wikihow.com
+$discard,site=w3schools.com
+$discard,site=geeksforgeeks.org
+$discard,site=solveforum.com
+$discard,site=giters.com
+$discard,site=codegrepper.com
+$discard,site=lightrun.com
+$discard,site=geekrepos.com
+$discard,site=kknews.cc
+$discard,site=coder.social
+$discard,site=issuehint.com
+$discard,site=programcreek.com
+$discard,site=bleepcoder.com
+$discard,site=otosection.com
+$discard,site=educba.com
+$discard,site=blog.csdn.net
+$discard,site=you.com
+$discard,site=newbedev.com
+$discard,site=libhunt.com
+$discard,site=9to5answer.com
+$discard,site=alternativeto.net
+$discard,site=appsloveworld.com
+$discard,site=githubplus.com
+
+! Medical/health spam
+$discard,site=webmd.com
+$discard,site=mayoclinic.org
+$discard,site=healthline.com
+
+! Tech journalism spam
+$discard,site=maketecheasier.com
+$discard,site=techspot.com
+$discard,site=extremetech.com
+$discard,site=pcworld.com
+$discard,site=drivereasy.com
+
+! Space & government
+$discard,site=space.com
+$discard,site=nasa.gov
+
+! Specific unwanted
+$discard,site=rationalwiki.org
+$discard,site=indianexpress.com
