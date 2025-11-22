@@ -1,4 +1,4 @@
-! name: Esoteric & Underground Web v.3
+! name: Esoteric & Underground Web v.4
 ! description: Maximum boost for underground communities, alternative knowledge, esoteric resources, and indie web. Aggressively blocks mainstream corporate sites.
 ! public: true
 ! author: Anonymous
