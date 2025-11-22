@@ -29,6 +29,12 @@ $boost=5,site=888chan.org
 $boost=5,site=64ch.net
 $boost=5,site=allchans.org
 $boost=5,site=anychan.com
+$boost=5,site=archiveofsins.com
+$boost=5,site=eientei.xyz
+$boost=5,site=desuarchive.org
+$boost=5,site=arch.b4k.dev
+$boost=5,site=warosu.org
+$boost=5,site=archive.4plebs.org
 
 ! Small web communities & forums
 $boost=5,site=lobste.rs
