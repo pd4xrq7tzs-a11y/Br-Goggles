@@ -46,10 +46,8 @@ $boost=5,site=lemmy.ml
 $boost=5,site=kbin.social
 $boost=5,site=e-hentai.org
 $boost=5,site=nhentai.net
-$boost=5,site=nexusmods.com
 $boost=5,site=sxyprn.com
 $boost=5,site=fc2.com
-$boost=5,site=steamcommunity.com
 $boost=5,site=gamepedia.com
 $boost=5,site=patreon.com
 $boost=5,site=telegram.org
@@ -198,7 +196,6 @@ $boost=5,site=rtings.com
 $boost=5,site=anilist.co
 $boost=5,site=myanimelist.net
 $boost=5,site=store.steampowered.com
-$boost=5,site=itch.io
 $boost=5,site=gamejolt.com
 
 ! ===== DISCARD ALL MAINSTREAM CORPORATE TRASH =====
