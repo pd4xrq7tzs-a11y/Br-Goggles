@@ -126,10 +126,7 @@ $boost=5,site=wiki.archiveteam.org
 $boost=5,site=allthetropes.org
 
 ! Alternative video platforms
-$boost=5,site=rumble.com
-$boost=5,site=odysee.com
 $boost=5,site=wrongthink.link
-$boost=5,site=bitchute.com
 $boost=5,site=brighteon.com
 $boost=5,site=banned.video
 
