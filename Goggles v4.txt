@@ -936,7 +936,6 @@ $discard,site=searchdimension.com
 $discard,site=myntra.com
 $discard,site=yaplakal.com
 $discard,site=dhl.de
-$discard,site=xda-developers.com
 $discard,site=thehindu.com
 $discard,site=hootsuite.com
 $discard,site=poste.it
